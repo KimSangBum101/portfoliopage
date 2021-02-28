@@ -138,9 +138,9 @@
                         <h3 class="sk_title">오피스 활용능력</h3>
                         <div class="sk_txt_box">
                             <ul class="sk_txt sk_txt2 sk_txt_office">
-                                <li><img src="img/check.png" alt="check">MS Word (상)</li>
+                                <li><img src="img/check.png" alt="check">MS Word (중)</li>
                                 <li><img src="img/check.png" alt="check">MS Powerpoint (상)</li>
-                                <li><img src="img/check.png" alt="check">MS Excel (상)</li>
+                                <li><img src="img/check.png" alt="check">MS Excel (중)</li>
                                 <li><img src="img/check.png" alt="check">한글 (상)</li>
                             </ul>
                         </div>
@@ -225,7 +225,7 @@
                             <span class="pf_name">사용기술:</span>
                             <span class="pf_txt">HTML5, CSS3, jQuery, JavaScript,UI/UX디자인</span>
                         </div>
-                        <div class="pf_gosite"><a href=" https://kimsangbum101.github.io/canon1/" target="_blank">GO SITE</a></div>
+                        <div class="pf_gosite"><a href=" https://kimsangbum101.github.io/canon/" target="_blank">GO SITE</a></div>
                     </div>
                 </div>
                 <div class="slide slide_3">
